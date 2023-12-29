@@ -54,9 +54,8 @@ button {
 }
 
 .grid {
-  display: grid;
-  grid-template-columns: 18% 18% 18% 18%;
-  gap: 50px;
+ text-align: center;
+ text-wrap:wrap
 }
 
 button.logout {
